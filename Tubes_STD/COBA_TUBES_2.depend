@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1587817911 source:c:\users\asus\coba_tubes_2\child.cpp
+	"child.h"
+
+1587775632 c:\users\asus\coba_tubes_2\child.h
+	<iostream>
+
+1587718967 source:c:\users\asus\coba_tubes_2\main.cpp
+	"parent.h"
+
+1587817206 c:\users\asus\coba_tubes_2\parent.h
+	<stdlib.h>
+	<string>
+	"child.h"
+
+1587821487 source:c:\users\asus\coba_tubes_2\parent.cpp
+	"parent.h"
+
+1587995051 source:c:\users\asus\desktop\coba_tubes_2\child.cpp
+	"child.h"
+
+1587775632 c:\users\asus\desktop\coba_tubes_2\child.h
+	<iostream>
+
+1587718967 source:c:\users\asus\desktop\coba_tubes_2\main.cpp
+	"parent.h"
+
+1587994969 c:\users\asus\desktop\coba_tubes_2\parent.h
+	<stdlib.h>
+	<string>
+	<bits/stdc++.h>
+	"child.h"
+
+1587995117 source:c:\users\asus\desktop\coba_tubes_2\parent.cpp
+	"parent.h"
+
+1587995051 source:d:\kuliah\materi kuliah smt 2\std\tubes\tubes_std\child.cpp
+	"child.h"
+
+1587775632 d:\kuliah\materi kuliah smt 2\std\tubes\tubes_std\child.h
+	<iostream>
+
+1587718967 source:d:\kuliah\materi kuliah smt 2\std\tubes\tubes_std\main.cpp
+	"parent.h"
+
+1587994969 d:\kuliah\materi kuliah smt 2\std\tubes\tubes_std\parent.h
+	<stdlib.h>
+	<string>
+	<bits/stdc++.h>
+	"child.h"
+
+1587995117 source:d:\kuliah\materi kuliah smt 2\std\tubes\tubes_std\parent.cpp
+	"parent.h"
+
